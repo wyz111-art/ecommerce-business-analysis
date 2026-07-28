@@ -254,7 +254,7 @@ Tableau 看板将分析结果整合为四类视图：
 ecommerce-business-analysis/
 ├── README.md
 ├── notebooks/
-│   ├── e-commerce-cleaning-eda.ipynb
+│   ├── e-commerce.ipynb
 │   └── ab-test.ipynb
 ├── sql/
 │   ├── operation_kpi.sql
