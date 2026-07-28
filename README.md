@@ -27,6 +27,8 @@
 
 ## 数据概况
 
+数据来源：https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset
+
 项目包含 5 张核心业务表，清洗后共保留约 219 万条明细记录。
 
 | 数据表 | 粒度 | 清洗后记录数 | 关键字段 |
